@@ -3,7 +3,7 @@ import random
 from colorama import init, Fore, Back, Style
 import characters
 
-
+# this is a comment
 
 def battleSuspense():
 
